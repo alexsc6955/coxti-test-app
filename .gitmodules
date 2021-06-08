@@ -1,0 +1,3 @@
+[submodule "coxti-test-frontend"]
+	path = coxti-test-frontend
+	url = https://github.com/alexsc6955/coxti-test-frontend
